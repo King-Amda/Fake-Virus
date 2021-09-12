@@ -10,11 +10,12 @@
 ☆ Video by [Isuru Udara](https://youtu.be/WWeP5e2Iv-4) ☆
 [![YouTube](https://img.shields.io/badge/YouTube-Video%20Tutorial-red?logo=youtube)](https://youtu.be/WWeP5e2Iv-4)
 
+# License
+GPL-3.0 License යටතේ ලියාපදිංචි කර ඇත .. ( Do Not Edit This.. )
+
 # Credits
 ![Mr Real Hacker](https://github.com/Real-Hack.png?size=100)
 
 ![Isuru Udara](https://github.com/Sl-Isuwa.png?size=100)
-
-# License
 
 
