@@ -1,3 +1,3 @@
 do
-X=MsgBox("Mr Real Hacker Is Hacked Your Computer",0+16,"Alert")
+X=MsgBox("King Amda Is Hacked Your Computer",0+16,"Alert")
 loop
